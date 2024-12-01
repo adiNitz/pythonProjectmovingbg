@@ -3,6 +3,7 @@ import sys
 
 # Initialize Pygame
 pygame.init()
+print("noa is the best !!!!")
 
 # Set up display
 WIDTH, HEIGHT = 800, 600
