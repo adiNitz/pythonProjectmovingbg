@@ -3,6 +3,7 @@ import sys
 
 # Initialize Pygame
 pygame.init()
+print("RONI is the best !!!!")
 
 # Set up display
 WIDTH, HEIGHT = 800, 600
